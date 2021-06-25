@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GraphQLLanguage",
+        "repositoryURL": "https://github.com/niw/GraphQLLanguage",
+        "state": {
+          "branch": "master",
+          "revision": "5c603ec27fd03da800024972917640b73dd6f110",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser",
+        "state": {
+          "branch": null,
+          "revision": "986d191f94cec88f6350056da59c2e59e83d1229",
+          "version": "0.4.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
